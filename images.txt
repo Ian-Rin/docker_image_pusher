@@ -1,7 +1,1 @@
-ghcr.io/home-assistant/raspberrypi4-64-homeassistant
-ghcr.io/home-assistant/aarch64-hassio-multicast
-ghcr.io/home-assistant/aarch64-hassio-observer
-ghcr.io/home-assistant/aarch64-hassio-audio
-ghcr.io/home-assistant/aarch64-hassio-dns
-ghcr.io/home-assistant/aarch64-hassio-cli
-ghcr.io/home-assistant/aarch64-hassio-supervisor
+linkease/ddnsto:latest
