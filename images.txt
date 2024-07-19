@@ -1,1 +1,1 @@
-linkease/ddnsto:latest
+nodered/node-red
